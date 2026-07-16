@@ -1,0 +1,6 @@
+{
+  "name": "Vahid-Routing-English",
+  "description": "An offline-first, local-first intelligent workspace for English learning, vocabulary building, and AI-assisted speaking and writing practice.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
